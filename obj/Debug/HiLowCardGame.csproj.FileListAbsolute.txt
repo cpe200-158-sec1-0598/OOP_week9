@@ -1,0 +1,6 @@
+c:\users\vasana\documents\visual studio 2015\Projects\HiLowCardGame\HiLowCardGame\bin\Debug\HiLowCardGame.exe.config
+c:\users\vasana\documents\visual studio 2015\Projects\HiLowCardGame\HiLowCardGame\bin\Debug\HiLowCardGame.exe
+c:\users\vasana\documents\visual studio 2015\Projects\HiLowCardGame\HiLowCardGame\bin\Debug\HiLowCardGame.pdb
+c:\users\vasana\documents\visual studio 2015\Projects\HiLowCardGame\HiLowCardGame\obj\Debug\HiLowCardGame.csprojResolveAssemblyReference.cache
+c:\users\vasana\documents\visual studio 2015\Projects\HiLowCardGame\HiLowCardGame\obj\Debug\HiLowCardGame.exe
+c:\users\vasana\documents\visual studio 2015\Projects\HiLowCardGame\HiLowCardGame\obj\Debug\HiLowCardGame.pdb
